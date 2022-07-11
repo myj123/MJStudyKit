@@ -1,0 +1,6 @@
+framework module Pods_MJStudyKit_Example {
+  umbrella header "Pods-MJStudyKit_Example-umbrella.h"
+
+  export *
+  module * { export * }
+}

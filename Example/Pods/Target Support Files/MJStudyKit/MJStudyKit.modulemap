@@ -1,0 +1,6 @@
+framework module MJStudyKit {
+  umbrella header "MJStudyKit-umbrella.h"
+
+  export *
+  module * { export * }
+}

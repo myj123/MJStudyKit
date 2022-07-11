@@ -18,13 +18,13 @@ Pod::Spec.new do |s|
 #   * Finally, don't worry about the indent, CocoaPods strips it!
 
   s.description      = <<-DESC
-TODO: Add long description of the pod here.
+  A short description of MJStudyKit Test by Pager hahahaha .
                        DESC
 
   s.homepage         = 'https://github.com/myj123/MJStudyKit'
   # s.screenshots     = 'www.example.com/screenshots_1', 'www.example.com/screenshots_2'
   s.license          = { :type => 'MIT', :file => 'LICENSE' }
-  s.author           = { 'myj123' => 'mengyanjun@payeassnet.com' }
+  s.author           = { 'myj123' => '839441349@qq.com' }
   s.source           = { :git => 'https://github.com/myj123/MJStudyKit.git', :tag => s.version.to_s }
   # s.social_media_url = 'https://twitter.com/<TWITTER_USERNAME>'
 
