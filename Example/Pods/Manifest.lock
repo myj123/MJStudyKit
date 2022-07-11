@@ -1,0 +1,16 @@
+PODS:
+  - MJStudyKit (0.1.0)
+
+DEPENDENCIES:
+  - MJStudyKit (from `../`)
+
+EXTERNAL SOURCES:
+  MJStudyKit:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  MJStudyKit: fa75353f77c646393dafd7ada5ba2b06027333a8
+
+PODFILE CHECKSUM: 3164316bb7ba43b16bc747032b3a2a741a76bced
+
+COCOAPODS: 1.11.3
