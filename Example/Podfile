@@ -1,0 +1,13 @@
+use_frameworks!
+
+platform :ios, '10.0'
+
+target 'MJStudyKit_Example' do
+  pod 'MJStudyKit', :path => '../'
+
+  target 'MJStudyKit_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
